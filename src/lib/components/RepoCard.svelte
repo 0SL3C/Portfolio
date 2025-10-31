@@ -6,7 +6,7 @@
   function onError() { img = repo.owner.avatar_url; }
 </script>
 
-<a class="card" href={repo.html_url} target="_blank" rel="noreferrer">
+<div class="card">
   <img src={img} alt={`${repo.full_name} preview`} on:error={onError} />
   <div class="body">
     <h3>{repo.name}</h3>
@@ -27,7 +27,7 @@
       </div>
     {/if}
   </div>
-</a>
+</div>
 
 <style>
 .card { display: grid; gap: 0.75rem; border: 1px solid #e5e7eb; border-radius: 0.5rem; overflow: hidden; background: white; text-decoration: none; color: inherit; }
