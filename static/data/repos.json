@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-01-18T12:13:41.819Z",
+  "generated_at": "2026-01-18T18:10:57.063Z",
   "repos": [
+    {
+      "id": 1136824894,
+      "name": "adManager-wpp",
+      "full_name": "0SL3C/adManager-wpp",
+      "description": "A whatsapp ad manager to send ads, it uses node-cron and whatsapp-web.js api",
+      "html_url": "https://github.com/0SL3C/adManager-wpp",
+      "homepage": null,
+      "topics": [],
+      "stargazers_count": 0,
+      "pushed_at": "2026-01-18T12:37:56Z",
+      "owner": {
+        "login": "0SL3C",
+        "avatar_url": "https://avatars.githubusercontent.com/u/50531487?v=4"
+      }
+    },
     {
       "id": 1087085117,
       "name": "Portfolio",
@@ -10,7 +25,7 @@
       "homepage": null,
       "topics": [],
       "stargazers_count": 0,
-      "pushed_at": "2026-01-18T06:12:10Z",
+      "pushed_at": "2026-01-18T12:13:42Z",
       "owner": {
         "login": "0SL3C",
         "avatar_url": "https://avatars.githubusercontent.com/u/50531487?v=4"
