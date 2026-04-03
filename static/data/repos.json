@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T18:27:17.047Z",
+  "generated_at": "2026-04-03T00:50:47.273Z",
   "repos": [
     {
       "id": 1087085117,
@@ -10,7 +10,7 @@
       "homepage": null,
       "topics": [],
       "stargazers_count": 0,
-      "pushed_at": "2026-04-02T12:30:34Z",
+      "pushed_at": "2026-04-02T18:27:17Z",
       "owner": {
         "login": "0SL3C",
         "avatar_url": "https://avatars.githubusercontent.com/u/50531487?v=4"
@@ -35,9 +35,9 @@
       "id": 1049763060,
       "name": "Blog",
       "full_name": "0SL3C/Blog",
-      "description": null,
+      "description": "https://blog.franco.ie/",
       "html_url": "https://github.com/0SL3C/Blog",
-      "homepage": null,
+      "homepage": "https://blog.franco.ie/",
       "topics": [],
       "stargazers_count": 0,
       "pushed_at": "2026-02-09T07:35:51Z",
